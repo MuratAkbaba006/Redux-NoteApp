@@ -1,5 +1,7 @@
 # Getting Started with Create React App
+<p align="center">
 ![Ekran Görüntüsü (767)](https://user-images.githubusercontent.com/44754934/135155088-8ca997f6-ff6b-4551-a4c2-969dbea32713.png)
+ </p>
 <p align="center">
   <img width="250" height="250" src="https://user-images.githubusercontent.com/44754934/135155716-cb9b9ffe-cbf1-421d-a7b6-c4fbe2dafac0.png">
 </p>
